@@ -1,4 +1,4 @@
-Python Extensions for Abaqus
+Python Snippets for Abaqus
 ============================
 
 ## Introduction
