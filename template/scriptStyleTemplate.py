@@ -9,7 +9,7 @@ from caeModules import *
 
 # Abaqus/Viewer Import
 from odbAccess import *
-# Backword Compatibility
+# Backward Compatibility
 # import testUtils
 # testUtils.setBackwardCompatibility()
 
